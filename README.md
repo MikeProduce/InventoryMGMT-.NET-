@@ -1,5 +1,3 @@
-# InventoryMGMT-.NET-
-
 # Inventory Management System Database Schema
 
 ## Overview
